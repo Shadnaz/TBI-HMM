@@ -1,3 +1,3 @@
 # TBI-HMM
 TBI-HMM Codes for PLOS Medicine.
-Main Final is Code4PLOS.m. The rest are auxilary functions needed to run the main File.
+Main file is Code4PLOS.m. The rest are auxilary functions needed to run the main file.
